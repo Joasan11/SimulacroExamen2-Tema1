@@ -1,0 +1,1 @@
+# Simulacro 2 examen del tema 1, calcular el area y el perimetro de un rectacgulo
