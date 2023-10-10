@@ -1,3 +1,6 @@
+//Joaquín Sánchez Miravalles
+//https://github.com/Joasan11/SimulacroExamen2-Tema1
+
 document.addEventListener("DOMContentLoaded", () => {
 
     const calculateButton = document.getElementById("Boton");
